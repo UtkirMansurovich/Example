@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Menu = ({muneItems}) => {
+const Menu = ({menuItems}) => {
     return (
         <div className="section-center"> 
             {menuItems.map(el =>{
